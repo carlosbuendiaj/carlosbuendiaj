@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @carlosbuendiaj
 - 👀 I’m interested in software development and creation of applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React + SpringBoot.
 - 📫 How to reach me via email: c.buendia.jimenez@gmail.com 
 
 <!---
